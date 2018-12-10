@@ -8,8 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Problem
 
-By choosing this problem, we wanted to understand why smokers prefer throwing their cigarettes on the floor, instead of throwing it in a rubbish, even if they are likely to pay a fine of 68 €. 
-We have chosen to focus ourselves on Sciences Po Paris’s students, from 13th Université street to 9th La Chaise street. The reason a smoker throws its cigarette on the floor, is mainly because there is no rubbish close to him/her and he/she doesn’t have time to search for one. Our goal is to reduce by 20% the number of butts in the streets. To have an idea of the amount, we picked up all butts we have seen in front of the 27 Saint Guillaume street entrance. As a result, we collected more than … butts, which means we hope to collect not more than … the same day at the same time...
+By choosing this problem, **we wanted to understand why smokers prefer throwing their cigarettes on the floor, instead of throwing it in a rubbish, even if they are likely to pay a fine of 68 €.**
+We have chosen to focus ourselves on Sciences Po Paris’s students, from _13th Université street_ to _9th La Chaise street?._ The reason a smoker throws its cigarette on the floor, is mainly because there is no rubbish close to him/her and he/she doesn’t have time to search for one. **Our goal is to reduce by 20% the number of butts in the streets.** To have an idea of the amount, we picked up all butts we have seen in front of the 27 Saint Guillaume street entrance. As a result, we collected more than … butts, which means we hope to collect not more than … the same day at the same time...
 
 ### Proposed concept 
 
@@ -17,13 +17,29 @@ THROW !T WELL (T!W), is a game app that a smoker could download on his/her smart
 On this app, it is possible to locate trashes close to you with the exact number of steps you need to do to attend it. During your walk, you are geolocated and thus when you are close enough to a rubbish, you are able to notify that you have thrown your butt.
 
 At this point, a wheel appears and turns to randomly choose one of these 5 categories:
--Environmental fact
+-*Environmental fact*
 -General fun fact
 -Joke
 -Reduction of 1€ maximum at a partner 
 -Encouragement phrase
 
 Firstly, T!W will be test on Sciences Po’s students during 2 weeks. If the results are convincing, it will be easy to extent T!W to the rest of the smoker population.
+
+### What we expect 
+
+Firstly, we expect that smokers will feel more concerned by the environmental impact caused by throwing a butt on the floor. To value the person that throw its butt in the trash, we will include encouragement phrase such as:
+“Thanks for your action, you are protecting the environment”
+“By throwing this butt in the rubbish, you save turtle babies”
+
+Secondly, we hope that people will influence each other in the good way, especially thanks to the collective action we want to develop in T!W. 
+
+Thirdly, the more butts are thrown in this trash, the more streets will stay clean. This axis is part of our communication plan. 
+
+Our goal is not to incite people to smoke in order to play, that’s why we have chosen to reward financially this action at 1€ maximum. One pack cost 7 €, so in one month a smoker will not earn more than 2 € with the wheel.
+
+
+
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
