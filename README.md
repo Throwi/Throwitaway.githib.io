@@ -17,11 +17,11 @@ THROW !T WELL (T!W), is a game app that a smoker could download on his/her smart
 On this app, it is possible to locate trashes close to you with the exact number of steps you need to do to attend it. During your walk, you are geolocated and thus when you are close enough to a rubbish, you are able to notify that you have thrown your butt.
 
 At this point, a wheel appears and turns to randomly choose one of these 5 categories:
-Environmental fact
-General fun fact
-Joke
-Reduction of 1€ maximum at a partner 
-Encouragement phrase
+-Environmental fact
+-General fun fact
+-Joke
+-Reduction of 1€ maximum at a partner 
+-Encouragement phrase
 
 Firstly, T!W will be test on Sciences Po’s students during 2 weeks. If the results are convincing, it will be easy to extent T!W to the rest of the smoker population.
 
