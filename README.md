@@ -1,5 +1,7 @@
 ## Welcome to Throw !t Away
 
+We started from the statement, that the streets of Paris are full of butts, which is not surprising when you know that 60% of the 50 billion cigarettes sold each year in France, are finishing in our environment. Knowing that, one butt can take up to 12 years to degrade and can pollute 500 liters of water. At first glance, the act of throwing away a butt seems inconsequential, but it is a major environmental issue. 
+
 You can use the [editor on GitHub](https://github.com/Throwi/Tiw.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
