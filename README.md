@@ -44,15 +44,22 @@ smoker population.
 
 ### What we expect 
 
-**Firstly**, we expect that smokers will feel more concerned by the environmental impact caused by throwing a butt on the floor. To value the person that throw its butt in the trash, we will include encouragement phrase such as:
+**Firstly**, we expect that smokers will feel more concerned by the
+environmental impact caused by throwing a butt on the floor. To value
+the person that throw its butt in the trash, we will include
+encouragement phrase such as:
 “Thanks for your action, you are protecting the environment”
 “By throwing this butt in the rubbish, you save turtle babies”
+**Secondly**, we hope that people will influence each other in the good
+way, especially thanks to the collective action we want to develop in
+T!W.
+**Thirdly**, the more butts are thrown in this trash, the more streets will
+stay clean. This axis is part of our communication plan.
 
-**Secondly**, we hope that people will influence each other in the good way, especially thanks to the collective action we want to develop in T!W. 
-
-**Thirdly**, the more butts are thrown in this trash, the more streets will stay clean. This axis is part of our communication plan. 
-
-Our goal is not to incite people to smoke in order to play, that’s why we have chosen to reward financially this action at 1€ maximum. One pack cost 7 €, so in one month a smoker will not earn more than 2 € with the wheel.
+Our goal is not to incite people to smoke in order to play, that’s why we
+have chosen to reward financially this action at 1€ maximum. One pack
+cost 7 €, so in one month a smoker will not earn more than 2 € with the
+wheel.
 
 ### Major risks and action to reduce them
 
