@@ -33,11 +33,17 @@ geolocated and thus when you are close enough to a rubbish, you are
 able to notify that you have thrown your butt.
 At this point, a wheel appears and turns to randomly choose one of
 these 5 categories:
-_-Environmental fact
+
+-Environmental fact
+
 -General fun fact
+
 -Joke
+
 -Reduction of 1€ maximum at a partner
+
 -Encouragement phrase_
+
 Firstly, T!W will be test on Sciences Po’s students during 2 weeks. If the
 results are convincing, it will be easy to extent T!W to the rest of the
 smoker population.
