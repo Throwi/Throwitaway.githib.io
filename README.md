@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Problem
 
 By choosing this problem, **we wanted to understand why smokers prefer throwing their cigarettes on the floor, instead of throwing it in a rubbish, even if they are likely to pay a fine of 68 €.**
-We have chosen to focus ourselves on Sciences Po Paris’s students, from _13th Université street_ to _9th La Chaise street?._ The reason a smoker throws its cigarette on the floor, is mainly because there is no rubbish close to him/her and he/she doesn’t have time to search for one. **Our goal is to reduce by 20% the number of butts in the streets.** To have an idea of the amount, we picked up all butts we have seen in front of the 27 Saint Guillaume street entrance. As a result, we collected more than … butts, which means we hope to collect not more than … the same day at the same time...
+We have chosen to focus ourselves on Sciences Po Paris’s students, from _13th Université street_ to _9th La Chaise street._ The reason a smoker throws its cigarette on the floor, is mainly because there is no rubbish close to him/her and he/she doesn’t have time to search for one. **Our goal is to reduce by 20% the number of butts in the streets.** To have an idea of the amount, we picked up all butts we have seen in front of the 27 Saint Guillaume street entrance. As a result, we collected more than … butts, which means we hope to collect not more than … the same day at the same time...
 
 ### Proposed concept 
 
@@ -27,13 +27,13 @@ Firstly, T!W will be test on Sciences Po’s students during 2 weeks. If the res
 
 ### What we expect 
 
-Firstly, we expect that smokers will feel more concerned by the environmental impact caused by throwing a butt on the floor. To value the person that throw its butt in the trash, we will include encouragement phrase such as:
+**Firstly**, we expect that smokers will feel more concerned by the environmental impact caused by throwing a butt on the floor. To value the person that throw its butt in the trash, we will include encouragement phrase such as:
 “Thanks for your action, you are protecting the environment”
 “By throwing this butt in the rubbish, you save turtle babies”
 
-Secondly, we hope that people will influence each other in the good way, especially thanks to the collective action we want to develop in T!W. 
+**Secondly**, we hope that people will influence each other in the good way, especially thanks to the collective action we want to develop in T!W. 
 
-Thirdly, the more butts are thrown in this trash, the more streets will stay clean. This axis is part of our communication plan. 
+**Thirdly**, the more butts are thrown in this trash, the more streets will stay clean. This axis is part of our communication plan. 
 
 Our goal is not to incite people to smoke in order to play, that’s why we have chosen to reward financially this action at 1€ maximum. One pack cost 7 €, so in one month a smoker will not earn more than 2 € with the wheel.
 
@@ -46,15 +46,14 @@ Another risk is that this game app will only function on the public road. In the
 
 ### Return on investments analysis
 
-
 To begin with, we want to create a game app, which means we need to hire an app developer. This kind of service costs between 3000 € and 5000 €. In our case, we want to integrate a map which maintenance of located trashes will be ensuring by everybody in open source.
 Nevertheless, someone will have to check and update this app. That’s why we want to hire a self-entrepreneur with digital skills, negotiation knowledge and a short community management experience. This person could be a student paid at the minimum wage, that is to say 9,8 €/hour in France, and work 10 hours a week.
-Total first year: 4000 € + (9,88 € * 10 * 44) = 8347 €
-Total other years: 5137 €
+Total first year: _4000 € + (9,88 € * 10 * 44) = 8347 €_
+Total other years: _5137 €_
 
 To finance our project, we are going to apply for grants from local partners such as: 
-Cleanliness service of the city (Paris, then other cities in France)
-Businesses working for sustainable development (BIO stores…)
+Cleanliness service of the city _(Paris, then other cities in France)_
+Businesses working for sustainable development _(BIO stores…)_
 We want to develop partnerships with those businesses to obtain reductions for our clients. Those reductions will have to be entirely paid by the partner.
 
 ### Deployment strategy and major milestones
