@@ -8,22 +8,39 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Problem
 
-By choosing this problem, **we wanted to understand why smokers prefer throwing their cigarettes on the floor, instead of throwing it in a rubbish, even if they are likely to pay a fine of 68 €.**
-We have chosen to focus ourselves on Sciences Po Paris’s students, from _13th Université street_ to _9th La Chaise street._ The reason a smoker throws its cigarette on the floor, is mainly because there is no rubbish close to him/her and he/she doesn’t have time to search for one. **Our goal is to reduce by 20% the number of butts in the streets.** To have an idea of the amount, we picked up all butts we have seen in front of the 27 Saint Guillaume street entrance. As a result, we collected more than … butts, which means we hope to collect not more than … the same day at the same time...
-
+By choosing this problem, we wanted to understand why smokers
+prefer throwing their cigarettes on the floor, instead of throwing it in a
+rubbish, even if they are likely to pay a fine of 68 €.
+We have chosen to focus ourselves on Sciences Po Paris’s students,
+from 13 th Université street to 9 th La Chaise street. We discovered that
+when a smoker throws its cigarette on the floor, it is mainly because
+there is no rubbish close to him/her and he/she doesn’t have time to
+search for one. Our goal is to reduce by 20% the number of butts in the
+streets. To have an idea of the amount, we picked up all butts we have
+seen in front of the 27 Saint Guillaume street entrance. As a result, we
+collected more than 300 butts, which means we hope to collect not
+more than 240 the same day at the same time (Thursday, between 1:00
+pm and 2:00 pm).
 ### Proposed concept 
 
-THROW !T WELL (T!W), is a game app that a smoker could download on his/her smartphone. The user could notify when he/she buys a new cigarette pack by scanning the bar code, which automatically fill a gauge with 20 cigarettes. 
-On this app, it is possible to locate trashes close to you with the exact number of steps you need to do to attend it. During your walk, you are geolocated and thus when you are close enough to a rubbish, you are able to notify that you have thrown your butt.
-
-At this point, a wheel appears and turns to randomly choose one of these 5 categories:
--*Environmental fact*
+THROW !T WELL (T!W), is a game app that a smoker could download on
+his/her smartphone. The user could notify when he/she buys a new
+cigarette pack by scanning the bar code, which automatically fill a gauge
+with 20 cigarettes.
+On this app, it is possible to locate trashes close to you with the exact
+number of steps you need to do to attend it. During your walk, you are
+geolocated and thus when you are close enough to a rubbish, you are
+able to notify that you have thrown your butt.
+At this point, a wheel appears and turns to randomly choose one of
+these 5 categories:
+-Environmental fact
 -General fun fact
 -Joke
--Reduction of 1€ maximum at a partner 
+-Reduction of 1€ maximum at a partner
 -Encouragement phrase
-
-Firstly, T!W will be test on Sciences Po’s students during 2 weeks. If the results are convincing, it will be easy to extent T!W to the rest of the smoker population.
+Firstly, T!W will be test on Sciences Po’s students during 2 weeks. If the
+results are convincing, it will be easy to extent T!W to the rest of the
+smoker population.
 
 ### What we expect 
 
