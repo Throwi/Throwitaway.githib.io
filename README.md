@@ -44,15 +44,18 @@ smoker population.
 
 ### What we expect 
 
+
 **Firstly**, we expect that smokers will feel more concerned by the
 environmental impact caused by throwing a butt on the floor. To value
 the person that throw its butt in the trash, we will include
 encouragement phrase such as:
-“Thanks for your action, you are protecting the environment”
-“By throwing this butt in the rubbish, you save turtle babies”
+_“Thanks for your action, you are protecting the environment”
+“By throwing this butt in the rubbish, you save turtle babies”_
+
 **Secondly**, we hope that people will influence each other in the good
 way, especially thanks to the collective action we want to develop in
 T!W.
+
 **Thirdly**, the more butts are thrown in this trash, the more streets will
 stay clean. This axis is part of our communication plan.
 
@@ -81,21 +84,22 @@ To begin with, we want to create a game app, which means we need to
 hire an app developer. This kind of service costs between 3000 € and
 5000 €. In our case, we want to integrate a map which maintenance of
 located trashes will be ensuring by everybody in open source.
-Nevertheless, someone will have to check and update this app. That’s
-why we want to hire a self-entrepreneur with digital skills, negotiation
-knowledge and a short community management experience. This
-person could be a student paid at the minimum wage, that is to say 9,8
+Nevertheless, someone will have to check and update this app. 
+That’s why we want to hire a self-entrepreneur with digital skills, negotiation
+knowledge and a short community management experience. 
+Thisperson could be a student paid at the minimum wage, that is to say 9,8
 €/hour in France, and work 10 hours a week.
+
 Total first year: _4000 € + (9,88 € * 10 * (52-8)) = 8347 €_
+
 Total other years: _5137 €_
 
 To finance our project the first year, we are going to apply for grants
 from local partners and private people such as:
+
 - Sciences Po for our association = _1000 €_
 - Cleanliness service of the city = _5000 €_
-- Businesses working for sustainable development = _1000 €_
-We want to develop partnerships with those businesses to obtain
-reductions for our clients, entirely paid by the partner.
+- Businesses working for sustainable development = _1000 €_ We want to develop partnerships with those businesses to obtain reductions for our clients, entirely paid by the partner.
 - Crowdfunding = _1500 €_
 
 ### Deployment strategy and major milestones
