@@ -8,19 +8,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Problem
 
-By choosing this problem, we wanted to understand why smokers
+By choosing this problem, **we wanted to understand why smokers
 prefer throwing their cigarettes on the floor, instead of throwing it in a
-rubbish, even if they are likely to pay a fine of 68 €.
+rubbish, even if they are likely to pay a fine of 68 €.**
 We have chosen to focus ourselves on Sciences Po Paris’s students,
-from 13 th Université street to 9 th La Chaise street. We discovered that
+from _13 th Université street_ to _9 th La Chaise street_. We discovered that
 when a smoker throws its cigarette on the floor, it is mainly because
 there is no rubbish close to him/her and he/she doesn’t have time to
 search for one. Our goal is to reduce by 20% the number of butts in the
 streets. To have an idea of the amount, we picked up all butts we have
 seen in front of the 27 Saint Guillaume street entrance. As a result, we
 collected more than 300 butts, which means we hope to collect not
-more than 240 the same day at the same time (Thursday, between 1:00
-pm and 2:00 pm).
+more than 240 the same day at the same time _(Thursday, between 1:00
+pm and 2:00 pm)._
 ### Proposed concept 
 
 THROW !T WELL (T!W), is a game app that a smoker could download on
@@ -33,11 +33,11 @@ geolocated and thus when you are close enough to a rubbish, you are
 able to notify that you have thrown your butt.
 At this point, a wheel appears and turns to randomly choose one of
 these 5 categories:
--Environmental fact
+_-Environmental fact
 -General fun fact
 -Joke
 -Reduction of 1€ maximum at a partner
--Encouragement phrase
+-Encouragement phrase_
 Firstly, T!W will be test on Sciences Po’s students during 2 weeks. If the
 results are convincing, it will be easy to extent T!W to the rest of the
 smoker population.
@@ -63,22 +63,40 @@ wheel.
 
 ### Major risks and action to reduce them
 
-
-The major risk is that the user will be bored, may not durably change students’ behaviours outside of the Sciences Po’s zone. Communication and sensitization around the environmental benefits of a well thrown butt is really important. That’s why we decided to produce a teaser to present our project. This short film will be published on social medias such as Facebook (2,2 billion users in 2018) and Twitter to make it go viral, in order to promote our activities and partners. 
- 
-Another risk is that this game app will only function on the public road. In the private sphere, people will smoke and throw their butt in their rubbish. To prevent this risk, people will be able to add their rubbish on the open source map. 
+The major risk is that the user will be bored, may not durably change
+students’ behaviours outside of the Sciences Po’s zone. Communication
+and sensitization around the environmental benefits of a well thrown
+butt is really important. That’s why we decided to produce a teaser to
+present our project. This short film will be published on social medias
+such as Facebook _(2,2 billion users in 2018)_ and Twitter to make it go
+viral, in order to promote our activities and partners.
+Another risk is that this game app will only function on the public road.
+In the private sphere, people will smoke and throw their butt in their
+rubbish. To prevent this risk, people will be able to add their rubbish on
+the open source map. 
 
 ### Return on investments analysis
 
-To begin with, we want to create a game app, which means we need to hire an app developer. This kind of service costs between 3000 € and 5000 €. In our case, we want to integrate a map which maintenance of located trashes will be ensuring by everybody in open source.
-Nevertheless, someone will have to check and update this app. That’s why we want to hire a self-entrepreneur with digital skills, negotiation knowledge and a short community management experience. This person could be a student paid at the minimum wage, that is to say 9,8 €/hour in France, and work 10 hours a week.
-Total first year: _4000 € + (9,88 € * 10 * 44) = 8347 €_
+To begin with, we want to create a game app, which means we need to
+hire an app developer. This kind of service costs between 3000 € and
+5000 €. In our case, we want to integrate a map which maintenance of
+located trashes will be ensuring by everybody in open source.
+Nevertheless, someone will have to check and update this app. That’s
+why we want to hire a self-entrepreneur with digital skills, negotiation
+knowledge and a short community management experience. This
+person could be a student paid at the minimum wage, that is to say 9,8
+€/hour in France, and work 10 hours a week.
+Total first year: _4000 € + (9,88 € * 10 * (52-8)) = 8347 €_
 Total other years: _5137 €_
 
-To finance our project, we are going to apply for grants from local partners such as: 
-Cleanliness service of the city _(Paris, then other cities in France)_
-Businesses working for sustainable development _(BIO stores…)_
-We want to develop partnerships with those businesses to obtain reductions for our clients. Those reductions will have to be entirely paid by the partner.
+To finance our project the first year, we are going to apply for grants
+from local partners and private people such as:
+- Sciences Po for our association = _1000 €_
+- Cleanliness service of the city = _5000 €_
+- Businesses working for sustainable development = _1000 €_
+We want to develop partnerships with those businesses to obtain
+reductions for our clients, entirely paid by the partner.
+- Crowdfunding = _1500 €_
 
 ### Deployment strategy and major milestones
 
