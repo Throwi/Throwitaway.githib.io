@@ -37,9 +37,29 @@ Thirdly, the more butts are thrown in this trash, the more streets will stay cle
 
 Our goal is not to incite people to smoke in order to play, that’s why we have chosen to reward financially this action at 1€ maximum. One pack cost 7 €, so in one month a smoker will not earn more than 2 € with the wheel.
 
+### Major risks and action to reduce them
 
 
+The major risk is that the user will be bored, may not durably change students’ behaviours outside of the Sciences Po’s zone. Communication and sensitization around the environmental benefits of a well thrown butt is really important. That’s why we decided to produce a teaser to present our project. This short film will be published on social medias such as Facebook (2,2 billion users in 2018) and Twitter to make it go viral, in order to promote our activities and partners. 
+ 
+Another risk is that this game app will only function on the public road. In the private sphere, people will smoke and throw their butt in their rubbish. To prevent this risk, people will be able to add their rubbish on the open source map. 
 
+### Return on investments analysis
+
+
+To begin with, we want to create a game app, which means we need to hire an app developer. This kind of service costs between 3000 € and 5000 €. In our case, we want to integrate a map which maintenance of located trashes will be ensuring by everybody in open source.
+Nevertheless, someone will have to check and update this app. That’s why we want to hire a self-entrepreneur with digital skills, negotiation knowledge and a short community management experience. This person could be a student paid at the minimum wage, that is to say 9,8 €/hour in France, and work 10 hours a week.
+Total first year: 4000 € + (9,88 € * 10 * 44) = 8347 €
+Total other years: 5137 €
+
+To finance our project, we are going to apply for grants from local partners such as: 
+Cleanliness service of the city (Paris, then other cities in France)
+Businesses working for sustainable development (BIO stores…)
+We want to develop partnerships with those businesses to obtain reductions for our clients. Those reductions will have to be entirely paid by the partner.
+
+### Deployment strategy and major milestones
+
+### Organization
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
